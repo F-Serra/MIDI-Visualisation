@@ -5,7 +5,7 @@ import math
 import threading
 import time
 
-### FOR DIFFERENT MIDIFILE CHANGE FILENAME AT LINE 201 ###
+### FOR A DIFFERENT MIDIFILE, CHANGE FILENAME AT LINE 201 ###
 
 # Get tempo from Mido midi-file
 def getTempo(midi_file):

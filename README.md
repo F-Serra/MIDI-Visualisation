@@ -1,4 +1,4 @@
-MIDI Visualisation In Python
+# MIDI Visualisation In Python
 
 Written in Python 3.5 using Mido (https://mido.readthedocs.io) and Pygame (http://www.pygame.org).
 
